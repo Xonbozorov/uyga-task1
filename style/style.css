@@ -1,0 +1,23 @@
+*
+h2{ font-size: 200px;
+	text-align: center;
+	color: white;
+}
+img{
+	width: 20%;
+	right: 25px;
+	display: inline-block;
+	margin-left: 40%;
+	margin-right: 0px;
+}
+body{
+	margin: 700px 0px;
+	border: 700px solid cadetblue;
+	padding: 300px 200px; background-color: #052b1c;
+}
+p{
+	color: white;
+	font-size: 200px;
+	text-align: center;
+}
+
